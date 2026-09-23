@@ -97,14 +97,15 @@ Fill in your credentials in the .env file:
 
 env
 
-##
+
+## ```text
 API_ID=12345678
 API_HASH=your_telegram_api_hash_here
 BOT_TOKEN=your_botfather_token_here
 SUPER_ADMIN_ID=your_telegram_numeric_id
+```
 
-
-
+###
 
 ⚠️ Important Disclaimer & Safety Guidelines
 1. Operational Safety & Account Protection
