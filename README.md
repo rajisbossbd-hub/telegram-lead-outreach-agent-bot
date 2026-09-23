@@ -66,3 +66,44 @@ Built on the native MTProto protocol via Pyrogram, TeleOmni Agent Bot empowers m
 ━━━ ⚙️ Accounts & Settings ━━━
 [ 📱 Accounts Manager ]  [ ➕ Add Telegram Account ]
 [ 💎 VIP / Profile Status ] [ 🌐 Language ]
+
+
+
+
+🛠️ Quick Installation & Setup
+Option 1: 1-Click Windows Launcher (Recommended)
+Download or clone this repository.
+Extract the ZIP folder (Right-click ➡️ Extract All...).
+Double-click Start_Bot.bat.
+The launcher will automatically configure Python, virtual environment, and dependencies, then start the bot!
+Option 2: Manual Terminal Setup
+bash
+
+
+# 1. Clone the repository
+git clone https://github.com/your-username/TeleOmni-Agent-Bot.git
+cd TeleOmni-Agent-Bot
+# 2. Create and activate virtual environment
+python -m venv venv
+# Windows:
+.\venv\Scripts\activate
+# Linux/macOS:
+source venv/bin/activate
+# 3. Install required libraries
+pip install -r requirements.txt
+# 4. Configure environment variables
+cp .env.example .env
+⚙️ Configuration (.env)
+Fill in your credentials in the .env file:
+
+env
+
+
+API_ID=12345678
+API_HASH=your_telegram_api_hash_here
+BOT_TOKEN=your_botfather_token_here
+SUPER_ADMIN_ID=your_telegram_numeric_id
+
+
+🛡️ Disclaimer
+This software is developed for legitimate outreach, community management, and marketing research. Users must comply with Telegram's Terms of Service and local privacy regulations. The authors are not responsible for any misuse.
