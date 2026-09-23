@@ -97,12 +97,27 @@ Fill in your credentials in the .env file:
 
 env
 
-
+##
 API_ID=12345678
 API_HASH=your_telegram_api_hash_here
 BOT_TOKEN=your_botfather_token_here
 SUPER_ADMIN_ID=your_telegram_numeric_id
 
 
-🛡️ Disclaimer
-This software is developed for legitimate outreach, community management, and marketing research. Users must comply with Telegram's Terms of Service and local privacy regulations. The authors are not responsible for any misuse.
+
+
+⚠️ Important Disclaimer & Safety Guidelines
+1. Operational Safety & Account Protection
+Recommended Daily Limit: To prevent algorithmic rate limits (PeerFlood) and safeguard your Telegram accounts, it is strongly recommended not to exceed 10 direct messages per account per day to unfamiliar users.
+Account Rotation: For large-scale campaigns, connect multiple sender accounts. The bot is designed to distribute messages evenly across all connected numbers via round-robin rotation.
+Warm-Up Period: New or freshly registered Telegram accounts should be properly warmed up before launching automated outreach or joining high-volume live streams.
+System Flexibility: Rate limits and cooldown timers are recommendations based on Telegram's anti-spam heuristics, not strict software limitations.
+2. Legal & Fair Use Notice
+Educational & Research Purpose: This software is developed for legitimate marketing research, community management, group administration, and authorized outreach only.
+Compliance with Telegram Terms of Service: Users are strictly responsible for complying with Telegram's Terms of Service
+ and any applicable local communication laws or regulations regarding automated messaging.
+Limitation of Liability: The developers, contributors, and maintainers of TeleOmni Agent Bot assume no responsibility or liability for:
+Account restrictions, temporary cooldowns (PeerFlood), or permanent bans resulting from aggressive use or unsolicited spamming.
+Any direct, indirect, incidental, or consequential damages arising from the use or misuse of this software.
+Non-Affiliation: This project is an independent open-source tool and is not endorsed by, affiliated with, or officially connected to Telegram FZ-LLC or any of its subsidiaries.
+
