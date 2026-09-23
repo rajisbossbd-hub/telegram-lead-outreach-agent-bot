@@ -66,8 +66,7 @@ Built on the native MTProto protocol via Pyrogram, TeleOmni Agent Bot empowers m
 ━━━ ⚙️ Accounts & Settings ━━━
 [ 📱 Accounts Manager ]  [ ➕ Add Telegram Account ]
 [ 💎 VIP / Profile Status ] [ 🌐 Language ]
-
-
+##
 
 
 🛠️ Quick Installation & Setup
